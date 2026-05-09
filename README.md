@@ -1,4 +1,4 @@
-# Hi, I’m Dena 👋
+# Hi, I’m Odosa 👋
 
 I’m a Full-Stack Web Developer and Software Engineering student focused on building modern digital products for startups and businesses. I enjoy creating clean, scalable, and user-focused web experiences using the MERN stack and modern UI/UX principles.
 
