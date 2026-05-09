@@ -19,5 +19,3 @@ I also serve as the President of GDG On Campus Nile University and AWS Student B
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/odosamamwen-enaruero-bb2606342/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge\&logo=vercel\&logoColor=white)]
